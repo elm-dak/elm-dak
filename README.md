@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dakouky ElMestapha</h1>
+<h1 align="center">Hi 👋, I'm Dakouky El Mestapha</h1>
 <h3 align="center">A passionate DevOps and web development professional from Morocco, adept at seamlessly integrating data science techniques into web development projects.</h3>
 
 - 🔭 I’m currently working on **E-commerce**
